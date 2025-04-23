@@ -1,11 +1,11 @@
 
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFeAJEfXx22lw/profile-displaybackgroundimage-shrink_350_1400/B4DZXb0kM4G4Ac-/0/1743149775332?e=1750896000&amp;v=beta&amp;t=CPFGMARCBl7_HJegWhCb6epmXa6evG7e5bEskz6NIIE" alt="Sanket Gaikwad" id="ember161" class="full-width evi-image ember-view">
+  <img height="300" src="https://media.licdn.com/dms/image/v2/D4D16AQFeAJEfXx22lw/profile-displaybackgroundimage-shrink_350_1400/B4DZXb0kM4G4Ac-/0/1743149775332?e=1750896000&amp;v=beta&amp;t=CPFGMARCBl7_HJegWhCb6epmXa6evG7e5bEskz6NIIE" alt="Sanket Gaikwad" id="ember161" class="full-width evi-image ember-view">
   <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+  
 <h1 align="center">Hi 👋, I'm Sanket Gaikwad</h1>
 <h3 align="center">Full Stack Developer</h3>
-
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketg-7&label=Profile%20views&color=0e75b6&style=flat" alt="sanketg-7" /> </p>
