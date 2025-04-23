@@ -1,6 +1,6 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-  <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/d9e27de3-c177-4547-b67e-08d63b0567b6/>
+  
 </div>
 <h1 align="center">Hi 👋, I'm Sanket Gaikwad</h1>
 <h3 align="center">Full Stack Developer</h3>
