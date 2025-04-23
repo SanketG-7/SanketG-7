@@ -3,6 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Sanket Gaikwad</h1>
 <h3 align="center">Full Stack Developer</h3>
+<img align="right" alt="coding" width="400" src="https://userhttps://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c973>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketg-7&label=Profile%20views&color=0e75b6&style=flat" alt="sanketg-7" /> </p>
 
