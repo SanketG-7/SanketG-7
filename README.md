@@ -1,7 +1,7 @@
-
+![image alt](https://github.com/SanketG-7/SanketG-7/blob/53bce4ada4888cb63f90dfeaae7dd92ed3c91c28/github-header-image%20(2).png)
   
 <h1 align="center">Hi 👋, I'm Sanket Gaikwad</h1>
-<h3 align="center">Full Stack Developer</h3>
+
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 
