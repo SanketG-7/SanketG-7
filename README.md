@@ -1,4 +1,4 @@
-![image alt](https://github.com/SanketG-7/SanketG-7/blob/53bce4ada4888cb63f90dfeaae7dd92ed3c91c28/github-header-image%20(2).png)
+![image alt](https://github.com/SanketG-7/SanketG-7/blob/437661134a75dd5d4be998e79c6a979685fc0373/Make%20your%20README.png)
   
 <h1 align="center">Hi 👋, I'm Sanket Gaikwad</h1>
 
